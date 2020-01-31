@@ -1,0 +1,102 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    background-color: grey;
+}
+
+.container{
+    width: 500px;
+    height: 1150px;
+    background-color: white;
+    position: absolute;
+    top: 50px;
+    left: calc(50% - 250px);
+    border-radius: 2px;
+}
+
+.text{
+    /* border: solid black 1px; */
+    position: absolute;
+    left: 35px;
+    top: 80px;
+    height: 700px;
+    width: 430px;
+    line-height: 15px;
+}
+
+.header{
+    position: absolute;
+    left: calc(50% - 215px);
+    top: 15px;
+    height: 700px;
+    width: 430px;
+    text-align: center;
+    line-height: 25px;
+}
+
+.subheader{
+    position: absolute;
+    top: 150px;
+    width: 430px;
+    line-height: 20px;
+}
+
+.debit{
+    position: absolute;
+    top: 250px;
+    width: 430px;
+    line-height: 20px;
+}
+
+.amount{
+    position: absolute;
+    top: 400px;
+    width: 430px;
+    line-height: 20px;
+}
+
+.content1{
+    position: absolute;
+    top: 450px;
+    width: 430px;
+    line-height: 20px;
+}
+
+.content2{
+    position: absolute;
+    top: 150px;
+    width: 430px;
+    text-align: right;
+    line-height: 20px;
+}
+
+.content3{
+    position: absolute;
+    top: 450px;
+    width: 430px;
+    line-height: 20px;
+    text-align: right;
+}
+
+.pin{
+    position: absolute;
+    top: 900px;
+    width: 430px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.end{
+    position: absolute;
+    top: 950px;
+    width: 430px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.dots{
+    position: absolute;
+    top: 1000px;
+    width: 430px;
+    line-height: 20px;
+    text-align: center;
+}

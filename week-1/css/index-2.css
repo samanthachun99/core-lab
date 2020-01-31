@@ -1,0 +1,128 @@
+body{
+    background-color: grey;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.container{
+    width: 450px;
+    height: 650px;
+    background-color: white;
+    position: absolute;
+    top: 50px;
+    left: calc(50% - 225px);
+    border-radius: 2px;
+}
+
+.text{
+    /* border: solid black 1px; */
+    position: absolute;
+    left: 20px;
+    top: 100px;
+    height: 550px;
+    width: 350px;
+    line-height: 15px;
+}
+
+.header{
+    position: absolute;
+    top: 20px;
+    width: 350px;
+    text-align: center;
+    line-height: 15px;
+}
+
+.content1{
+    position: absolute;
+    top: 80px;
+    width: 350px;
+    line-height: 15px;
+}
+
+.text2{
+    position: absolute;
+    top: 140px;
+    width: 350px;
+    line-height: 15px;
+}
+
+.content2{
+    position: absolute;
+    top: 160px;
+    width: 350px;
+    line-height: 15px;
+}
+
+.content3{
+    position: absolute;
+    top: 160px;
+    left: 75px;
+    width: 350px;
+    line-height: 15px;
+}
+
+.content4{
+    position: absolute;
+    top: 160px;
+    left: 250px;
+    width: 350px;
+    line-height: 15px;
+}
+
+.text3{
+    position: absolute;
+    top: 200px;
+    width: 350px;
+    line-height: 15px;
+}
+
+.content5{
+    position: absolute;
+    top: 220px;
+    left: 60px;
+    width: 350px;
+    line-height: 15px;
+}
+
+.content6{
+    position: absolute;
+    top: 220px;
+    left: 250px;
+    width: 350px;
+    line-height: 15px;
+}
+
+.text4{
+    position: absolute;
+    top: 240px;
+    width: 350px;
+    line-height: 15px;
+}
+
+.content7{
+    position: absolute;
+    top: 270px;
+    width: 350px;
+    line-height: 15px;
+}
+
+.content8{
+    position: absolute;
+    top: 270px;
+    left: 250px;
+    width: 350px;
+    line-height: 15px;
+}
+
+.content9{
+    position: absolute;
+    top: 330px;
+    width: 350px;
+    line-height: 15px;
+}
+
+.end{
+    position: absolute;
+    top: 430px;
+    width: 350px;
+    line-height: 15px;
+}

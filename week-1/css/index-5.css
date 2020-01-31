@@ -1,0 +1,117 @@
+body{
+    font-family: 'Nanum Gothic Coding', monospace;
+    background-color: grey;
+}
+
+.container{
+    /* border: solid black 1px; */
+    width: 400px;
+    height: 1200px;
+    background-color: white;
+    position: absolute;
+    left: calc(50% - 200px);
+    top: 50px;
+    border-radius: 2px;
+}
+
+.text{
+    /* border: solid black 1px; */
+    width: 350px;
+    height: 1200px;
+    position: absolute;
+    left: 25px;
+    top: 200px;
+}
+
+.header{
+    font-family: 'Volkhov', serif;
+    font-size: 28px;
+    line-height: 45px;
+    width: 350px;
+    position: absolute;
+    text-align: center;
+}
+
+#subheader{
+    font-family: 'Volkhov', serif;
+    font-size: 20px;
+    line-height: 45px;
+    width: 350px;
+    position: absolute;
+    top: 120px;
+    text-align: center;
+}
+
+#location{
+    width: 350px;
+    position: absolute;
+    top: 180px;
+    text-align: center;
+}
+
+.content1{
+    width: 350px;
+    position: absolute;
+    top: 200px;
+}
+
+.content2{
+    /* width: 350px; */
+    position: absolute;
+    top: 248px;
+    left: 55px;
+}
+
+.content3{
+    width: 350px;
+    position: absolute;
+    top: 200px;
+    text-align: right;
+}
+
+.content4{
+    width: 350px;
+    position: absolute;
+    top: 415px;
+    text-align: center;
+}
+
+.content5{
+    width: 350px;
+    position: absolute;
+    top: 460px;
+}
+
+.content6{
+    width: 350px;
+    position: absolute;
+    top: 460px;
+    text-align: right;
+}
+
+#stars{
+    width: 350px;
+    position: absolute;
+    top: 660px;
+    text-align: center;
+}
+
+.content7{
+    width: 350px;
+    position: absolute;
+    top: 680px;
+    text-align: center;
+}
+
+#stars2{
+    width: 350px;
+    position: absolute;
+    top: 740px;
+    text-align: center;
+}
+.content8{
+    width: 350px;
+    position: absolute;
+    top: 780px;
+    text-align: center;
+}
