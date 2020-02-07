@@ -1,0 +1,118 @@
+body{
+    font-family: 'Nanum Gothic Coding', monospace;
+    background-color: grey;
+}
+
+.container{
+    width: 400px;
+    height: 1200px;
+    /* border: solid black 1px; */
+    background-color: white;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+.text{
+    /* border: solid black 1px; */
+    width: 330px;
+    height: 1200px;
+    position: absolute;
+    left: 15px;
+    top: 50px;
+}
+
+.header{
+    width: 330px;
+    position: absolute;
+    top: 10px;
+    text-align: center;
+    line-height: 18px;
+    padding-top: 0px;
+}
+
+.content1{
+    width: 330px;
+    position: absolute;
+    top: 65px;
+    line-height: 18px;
+}
+
+.order{
+    width: 330px;
+    position: absolute;
+    top: 85px;
+}
+
+#sale{
+    position: absolute;
+    top: 235px;
+    left: 50px;
+}
+
+.content2{
+    width: 330px;
+    position: absolute;
+    top: 172px;
+    text-align: right;
+    line-height: 18px;
+}
+
+.content3{
+    width: 330px;
+    position: absolute;
+    top: 243px;
+    left: 30px;
+    line-height: 18px;
+}
+
+.content4{
+    width: 330px;
+    position: absolute;
+    top: 475px;
+    line-height: 18px;
+}
+
+#stars{
+    width: 330px;
+    position: absolute;
+    top: 730px;
+    text-align: center;
+}
+
+.content5{
+    width: 330px;
+    position: absolute;
+    top: 750px;
+    text-align: center;
+    line-height: 18px;
+}
+
+#stars2{
+    width: 330px;
+    position: absolute;
+    top: 945px;
+    text-align: center;
+}
+
+.content6{
+    width: 330px;
+    position: absolute;
+    top: 975px;
+    text-align: center;
+    line-height: 25px;
+}
+
+#stars3{
+    width: 330px;
+    position: absolute;
+    top: 1075px;
+    text-align: center;
+}
+
+#end{
+    width: 330px;
+    position: absolute;
+    top: 1100px;
+    text-align: center;
+}
