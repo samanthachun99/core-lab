@@ -63,7 +63,6 @@ img{
 
 /* Style the back side */
 .flip-box-back {
-
   transform: rotateY(180deg);
 }
 
@@ -200,7 +199,7 @@ img{
 }
 
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1000px) {
 
     .container {
         user-select: none;

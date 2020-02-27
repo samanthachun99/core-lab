@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="5.08in" height="5.08in" viewBox="0 0 380 380">
+<title>circle1</title>
+<circle cx="183" cy="183" r="182.5" fill="#fff"/>
+<path d="M601,195a181.38,181.38,0,1,1-70.84,14.3A180.82,180.82,0,0,1,601,195m0-1A183,183,0,1,0,784,377,183,183,0,0,0,601,194Z" transform="translate(-418 -194)"/>
+<style>
+svg#Layer_1{
+    position: absolute;
+    left: 10px;
+    stroke: red;
+    stroke-width: 5px;
+}
+
+</style>
+</svg>
