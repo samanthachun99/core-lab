@@ -3,13 +3,18 @@
     padding: none;
 }
 
+body{
+    background-color: black;
+}
+
 .text{
     position: absolute;
-    left: 800px;
+    left: 700px;
     top: 50px;
     font-size: 50px;
     font-family: helvetica;
     font-weight: bolder;
+    color: white;
 }
 
 .self{
